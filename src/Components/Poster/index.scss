@@ -1,0 +1,15 @@
+#Poster{
+    width: 45%;
+    @media (min-with:576px){
+        width: 23%;
+
+    }
+
+    margin-bottom: 10px;
+    margin-right: 10px;
+    img{
+        width: 100%;
+    }
+        
+    
+}

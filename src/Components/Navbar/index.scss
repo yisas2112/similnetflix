@@ -1,0 +1,19 @@
+#Navbar{
+    position: fixed;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    z-index: 1;
+
+    img{
+        width: 100px;
+        object-fit: contain;
+    }
+
+    img,button{
+        margin: 5px 10px 4px 10px;
+    }
+
+    transition-timing-function: ease-in;
+    transition: all 1s;
+}
