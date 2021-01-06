@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/yisas2112/similnetflix/static/css/main.3b6a495b.chunk.css",
+    "main.js": "/yisas2112/similnetflix/static/js/main.2543c97e.chunk.js",
+    "main.js.map": "/yisas2112/similnetflix/static/js/main.2543c97e.chunk.js.map",
+    "runtime-main.js": "/yisas2112/similnetflix/static/js/runtime-main.575ecdb8.js",
+    "runtime-main.js.map": "/yisas2112/similnetflix/static/js/runtime-main.575ecdb8.js.map",
+    "static/js/2.5cda81df.chunk.js": "/yisas2112/similnetflix/static/js/2.5cda81df.chunk.js",
+    "static/js/2.5cda81df.chunk.js.map": "/yisas2112/similnetflix/static/js/2.5cda81df.chunk.js.map",
+    "static/js/3.840ceae9.chunk.js": "/yisas2112/similnetflix/static/js/3.840ceae9.chunk.js",
+    "static/js/3.840ceae9.chunk.js.map": "/yisas2112/similnetflix/static/js/3.840ceae9.chunk.js.map",
+    "index.html": "/yisas2112/similnetflix/index.html",
+    "static/css/main.3b6a495b.chunk.css.map": "/yisas2112/similnetflix/static/css/main.3b6a495b.chunk.css.map",
+    "static/js/2.5cda81df.chunk.js.LICENSE.txt": "/yisas2112/similnetflix/static/js/2.5cda81df.chunk.js.LICENSE.txt",
+    "static/media/spinner.0df1bc38.gif": "/yisas2112/similnetflix/static/media/spinner.0df1bc38.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.575ecdb8.js",
+    "static/js/2.5cda81df.chunk.js",
+    "static/css/main.3b6a495b.chunk.css",
+    "static/js/main.2543c97e.chunk.js"
+  ]
+}
