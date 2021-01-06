@@ -8,8 +8,7 @@ export const AppProvider = ({children}) =>{
     const [type, setType] = useState("movie")
     
     
-    const types = (type)=>{
-        console.log(type)
+    const types = (type)=>{        
         setType(type)
     }
     

@@ -14,7 +14,7 @@ const ItemContainer = ()=>{
         let ignore = false
         setTimeout(()=>{
             setLoading(true)
-            const url = `http://api.themoviedb.org/3/${type}/${id}?api_key=6c42ab066380f0f8504bff1f305fbf23`
+            const url = `https://api.themoviedb.org/3/${type}/${id}?api_key=6c42ab066380f0f8504bff1f305fbf23`
             fetch(url)
             .then((response)=>{
                 if(!ignore){

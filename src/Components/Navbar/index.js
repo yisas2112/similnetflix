@@ -30,11 +30,11 @@ const Nabvar = ()=>{
 
     return <>
         <div id="Navbar" style={{backgroundColor: showFiltrer && 'black'}}>
-            <Button content={logo} path='/'></Button>
+            <Button content={logo} path='/similnetflix/'></Button>
             {showFiltrer && (
                 <div>
-                <Button content='movies' path='movie' callback={()=>{handleClic('movie')}}/>
-                <Button content='Shows' path='tv' callback={()=>{handleClic('tv')}} />
+                <Button content='movies' path='/similnetflix/movie' callback={()=>{handleClic('movie')}}/>
+                <Button content='Shows' path='/similnetflix/tv' callback={()=>{handleClic('tv')}} />
                 </div>               
             )}
         </div>

@@ -13,10 +13,10 @@ function App() {
       <BrowserRouter>
       <Nabvar/>
         <Switch>
-          <Route exact path='/:type?'>
+          <Route exact path='/similnetflix/:type?'>
             <HomeContainer/>
           </Route>
-          <Route exact path='/:type/:id'>
+          <Route exact path='/similnetflix/:type/:id'>
             <ItemContainer/>
           </Route>
         </Switch>

@@ -8,8 +8,7 @@ import Spinner from '../../Components/Spinner'
 
 const HomeContainer = ()=>{
     const {type} = useParams()
-    const posters = useContext(AppContext)
-    console.log(type)
+    const posters = useContext(AppContext)    
 
     useEffect(()=>{
         posters.types(type)
