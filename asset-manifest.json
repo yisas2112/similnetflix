@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/similnetflix/static/css/main.3b6a495b.chunk.css",
-    "main.js": "/similnetflix/static/js/main.2543c97e.chunk.js",
-    "main.js.map": "/similnetflix/static/js/main.2543c97e.chunk.js.map",
+    "main.js": "/similnetflix/static/js/main.7580cf3c.chunk.js",
+    "main.js.map": "/similnetflix/static/js/main.7580cf3c.chunk.js.map",
     "runtime-main.js": "/similnetflix/static/js/runtime-main.f48df324.js",
     "runtime-main.js.map": "/similnetflix/static/js/runtime-main.f48df324.js.map",
     "static/js/2.5cda81df.chunk.js": "/similnetflix/static/js/2.5cda81df.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.f48df324.js",
     "static/js/2.5cda81df.chunk.js",
     "static/css/main.3b6a495b.chunk.css",
-    "static/js/main.2543c97e.chunk.js"
+    "static/js/main.7580cf3c.chunk.js"
   ]
 }
